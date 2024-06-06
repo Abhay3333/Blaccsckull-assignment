@@ -17,7 +17,7 @@ This is a React application that displays reviews and highlights sentences based
 
 ## Usage
 
-1. Start the development server: `npm start`
+1. Start the development server: `npm run dev`
 2. Open your browser and visit `http://localhost:5173`
 
 ## Components
